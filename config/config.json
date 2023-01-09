@@ -1,0 +1,28 @@
+{
+    "lvrConfig": {
+        "resultRowDepth": 3,
+        "percentOfHistoryToInclude": 90,
+        "reloadData": false,
+        "includeWorstCaseLVR": true,
+        "includeHighLowLVR": false,
+        "includeOpenCloseLVR": false,
+        "bitQueryApiKey": "BQY2vzTN2GOyzgDYlmWymcD4fiHhZt0Z",
+        "minLVR": 0.2,
+        "timePeriods": ["1", "4"]
+    },
+    "debtLimitConfig": {
+        "percentSlippageThresholds": [7]
+    },
+    "adjustedParamCalcs": {
+        "lvrConservativeFactor": 0.95,
+        "debtLimitConservativeFactor": 0.5,
+        "percentSlippageThreshold": 7
+    },
+    "OBExchanges": ["binance", "gate-io", "gemini", "poloniex", "huobi-global", "kucoin", "mxc", "bitcoin-com-exchange", "bibox", "pexpay"],
+    "CPMMExchanges": ["uniswap-v2", "sushiswap"],
+    "exchangeApiKeys": {
+        "kucoinPass": "testpasshprase",
+        "kucoinKey": "62d178514c560d0001beaaa7",
+        "kucoinSecret": "dd878053-abd3-494e-a8de-bcc8f19c245e"
+    }
+}

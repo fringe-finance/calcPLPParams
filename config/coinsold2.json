@@ -1,0 +1,25 @@
+{
+    "USDD": {
+        "lvr": 0.85,
+        "uniV2Oracle": false
+    },
+    "SUN": {
+        "lvr": 0.5,
+        "uniV2Oracle": false,
+        "cmcSlug": "sun-token"
+    },
+    "NFT": {
+        "lvr": 0.6,
+        "uniV2Oracle": false,
+        "cmcSlug": "apenft"
+    },
+    "JST": {
+        "lvr": 0.6,
+        "uniV2Oracle": false,
+        "cmcSlug": "just"
+    },
+    "USDJ": {
+        "lvr": 0.75,
+        "uniV2Oracle": false
+    }
+}

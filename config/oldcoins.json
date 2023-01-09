@@ -1,0 +1,338 @@
+{
+    "SHIB": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "UNI": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "FTT": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "OKB": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "CRO": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "WBTC": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "AXS": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "MANA": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "XCN": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "SAND": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "APE": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "MKR": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "AAVE": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "HT": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "SNX": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "BAT": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "PAXG": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "MX": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "GRT": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "LRC": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "ENJ": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "BIT": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "CRV": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "AMP": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "1INCH": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "FXS": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "ENS": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "GNO": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "COMP": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "OHM": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "CVX": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "SUSHI": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "AUDIO": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "OMG": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "UMA": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "ZRX": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "ANKR": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "NU": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "BAL": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "YFI": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "PLA": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "MASK": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "DODO": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "TRIBE": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "HEGIC": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "OCEAN": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "RSR": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "LDO": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "ILV": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "GLM": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "CTSI": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "C98": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "INJ": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "REQ": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "SXP": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "DYDX": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "SPELL": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "OXT": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "KNC": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "ANT": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "BADGER": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "GHST": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "BAND": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "RLC": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "ALPHA": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "NMR": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "PERP": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "PHA": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "MLN": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "LON": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "OGN": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "BNT": {
+        "lvr": 0.55,
+        "uniV2Oracle": false
+    },
+    "IOTX": {
+        "lvr": 0.39,
+        "uniV2Oracle": false
+    },
+    "LINK": {
+        "lvr": 0.47,
+        "uniV2Oracle": false
+    },
+    "MATIC": {
+        "lvr": 0.45,
+        "uniV2Oracle": false
+    },
+    "REN": {
+        "lvr": 0.41,
+        "uniV2Oracle": false
+    },
+    "TOMO": {
+        "lvr": 0.39,
+        "uniV2Oracle": false
+    },
+    "FOX": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "FRIN": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "_STETH": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "EURS": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "_CTX": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "CRPT": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "ETH": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    }
+}

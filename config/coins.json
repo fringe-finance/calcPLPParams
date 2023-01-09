@@ -1,0 +1,31 @@
+{
+    "KNC": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "FXS": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "OCEAN": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "GTC": {
+        "lvr": 0.5,
+        "uniV2Oracle": false,
+        "cmcSlug": "gitcoin"
+    },
+    "LON": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "ZRX": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    },
+    "PAXG": {
+        "lvr": 0.5,
+        "uniV2Oracle": false
+    }
+}
